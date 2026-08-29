@@ -343,7 +343,7 @@ Potential future extensions include:
 
 | Contributor | Responsibility |
 |-------------|----------------|
-| **Sunil Kumar** | Backend Integration, PostgreSQL, Procurement Workflow, Authentication, System Integration |
+| **Prabhat Singh** | Backend Integration, PostgreSQL, Procurement Workflow, Authentication, System Integration |
 | **Team Members** | Frontend, UI/UX, Module Development, Testing |
 
 **License:** Developed as part of the Infosys Springboard Internship Project.
